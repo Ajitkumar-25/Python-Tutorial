@@ -1,1 +1,6 @@
 print("hello world kya haal chaal ")
+print(7)    
+print("by")    
+print(10/2)
+print(10/3)
+print(20*1.333)
